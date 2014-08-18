@@ -1,0 +1,25 @@
+{
+    "wallpapers": {
+        "category": [
+            {
+                "name": "Test",
+                "wallpaper": [
+                    {
+                        "author": "Saurabh Gupta",
+                        "url": "http://i60.tinypic.com/x86lk.jpg",
+                        "thumbUrl": "http://i61.tinypic.com/1zp2jyo.jpg",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "Saurabh Gupta",
+                        "url": "http://i59.tinypic.com/23svubc.jpg",
+                        "thumbUrl": "http://i59.tinypic.com/2n99hlc.jpg",
+                        "name": "WP 2"
+                    },
+                    
+                ]
+            },
+           
+        ]
+    }
+}
